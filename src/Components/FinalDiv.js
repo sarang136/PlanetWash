@@ -1,6 +1,7 @@
 import React from 'react'
 
 const FinalDiv = () => {
+    
     return (
         <div className='finalContainer'>
             <div id='copyright'>
