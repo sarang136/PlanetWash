@@ -1194,4 +1194,13 @@
   #textTemp18 {
     display: none;
   }
+  .finalContainer p {
+font-size: 10px;
+  }
+  .finalContainer {
+    padding: 15px 20px;
+  }
+  .tagLine img{
+    height: 30px;
+  }
 }
